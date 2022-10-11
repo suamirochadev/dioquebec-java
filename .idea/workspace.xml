@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a4891b-3688-4f09-89f8-ca6c39f8cf9f" name="Changes" comment="Criando calculadora">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/JAVAnapratica/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/JAVAnapratica/Emprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/JAVAnapratica/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/JAVAnapratica/Mensagem.java" afterDir="false" />
+    <list default="true" id="86a4891b-3688-4f09-89f8-ca6c39f8cf9f" name="Changes" comment="Exercicio 1 Criação">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Quadrilatero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/model/PrimeiroPrograma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/model/gato.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -82,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664961799013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicio 1 Criação">
+      <created>1665490079315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665490079315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +103,8 @@
     <MESSAGE value="First" />
     <MESSAGE value="Criando class livro" />
     <MESSAGE value="Criando calculadora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando calculadora" />
+    <MESSAGE value="Exercicio 1 Criação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1 Criação" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
