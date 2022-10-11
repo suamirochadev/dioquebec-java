@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a4891b-3688-4f09-89f8-ca6c39f8cf9f" name="Changes" comment="Exercicio 1 Criação">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Quadrilatero.java" afterDir="false" />
+    <list default="true" id="86a4891b-3688-4f09-89f8-ca6c39f8cf9f" name="Changes" comment="Exercicio 2 Sobrecarga">
+      <change afterPath="$PROJECT_DIR$/src/ControledeFluxo/CaixaEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploBreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar/ResultadoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaMedida/SistemaMedida.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +20,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -40,14 +50,34 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.izhangzhihao.rainbow.fart.settings.RainbowFartConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "io.unthrottled.amii.config.ui.PluginSettingsUI"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControledeFluxo.CaixaEletronico" />
+      <module name="primeiro programa intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControledeFluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CaixaEletronico" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="First">
@@ -85,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665490079315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercicio 2 Sobrecarga">
+      <created>1665492838795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665492838795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,10 +141,27 @@
     <MESSAGE value="Criando class livro" />
     <MESSAGE value="Criando calculadora" />
     <MESSAGE value="Exercicio 1 Criação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 1 Criação" />
+    <MESSAGE value="Exercicio 2 Sobrecarga" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2 Sobrecarga" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExemploFor/ExemploFor.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/primeiro_programa_intellij$CaixaEletronico.ic" NAME="CaixaEletronico Coverage Results" MODIFIED="1665497040383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ControledeFluxo.*</FILTER>
+    </SUITE>
   </component>
 </project>
