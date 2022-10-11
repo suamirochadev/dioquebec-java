@@ -1,6 +1,4 @@
-package br.com.dio;
-
-import model.gato;
+package br.com.dio.model;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
