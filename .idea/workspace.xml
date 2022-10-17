@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a4891b-3688-4f09-89f8-ca6c39f8cf9f" name="Changes" comment="Exercicio 2 Sobrecarga">
-      <change afterPath="$PROJECT_DIR$/src/ControledeFluxo/CaixaEletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploBreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor/ExemploWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar/ResultadoEscolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaMedida/SistemaMedida.java" afterDir="false" />
+    <list default="true" id="86a4891b-3688-4f09-89f8-ca6c39f8cf9f" name="Changes" comment="Estruturas de repetição">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Caminhão.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Polimorfismo/Filha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Polimorfismo/Fillha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Polimorfismo/Mae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Polimorfismo/RodarAplicação.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/exercicio2/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/exercicio2/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/exercicio2/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/exercicio2/RodarAplicação.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/exercicio2/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/RodarAplicação.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +62,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "io.unthrottled.amii.config.ui.PluginSettingsUI"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CaixaEletronico" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControledeFluxo.CaixaEletronico" />
       <module name="primeiro programa intellij" />
       <extension name="coverage">
@@ -72,11 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CaixaEletronico" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665492838795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Estruturas de repetição">
+      <created>1665528484293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665528484293</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +151,8 @@
     <MESSAGE value="Criando calculadora" />
     <MESSAGE value="Exercicio 1 Criação" />
     <MESSAGE value="Exercicio 2 Sobrecarga" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2 Sobrecarga" />
+    <MESSAGE value="Estruturas de repetição" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturas de repetição" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
